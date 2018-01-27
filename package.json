@@ -1,0 +1,23 @@
+{
+  "name": "echarts-gantt",
+  "version": "0.1.0",
+  "description": "ECharts Gantt extension",
+  "main": "index.js",
+  "author": {
+    "name": "Quillblue",
+    "email": "me@quilblue.com"
+  },
+  "license": "BSD",
+  "dependencies": {
+    "echarts": "^4.0.2",
+    "zrender": "^4.0.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/quillblue/echarts-gantt"
+  },
+  "devDependencies": {
+    "webpack": "^1.13.3",
+    "webpack-link": "^0.2.0"
+  }
+}
